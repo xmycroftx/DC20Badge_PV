@@ -1,6 +1,10 @@
 DC20Badge_PV
 ============
 
+Hacked together by Raiford, KC and some minor input from me.
+
+
+
 Defcon 20 Badge IR Solutions 
 ============
 
